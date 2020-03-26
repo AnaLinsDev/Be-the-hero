@@ -5,8 +5,8 @@
 <p>Estão sendo usados:</p>
 <ol>
   <li>JavaScript</li>
-  <li>Node</li>
-  <li>React</li>
+  <li>Node JS</li>
+  <li>React JS</li>
   <li>SQLite</li>
   <li>Git</li>
   <li>HTML + CSS</li>
