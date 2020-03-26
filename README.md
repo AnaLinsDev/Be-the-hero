@@ -6,7 +6,7 @@
 <ol>
   <li>JavaScript</li>
   <li>Node JS</li>
-  <li>React JS</li>
+  <li>React </li>
   <li>SQLite</li>
   <li>Git</li>
   <li>HTML + CSS</li>
