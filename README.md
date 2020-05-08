@@ -3,8 +3,10 @@
 ![image1](https://user-images.githubusercontent.com/60307596/81362657-bd71fb00-90b7-11ea-8781-93f89427ebf7.PNG)
 ![image5](https://user-images.githubusercontent.com/60307596/81362712-ded2e700-90b7-11ea-9814-142b1c9508fd.PNG)
 
+### Be the Hero
+- Foi idealizado com o objetivo de ser um meio de comunicação e exposição entre várias ONG's e doadores interessados.
 
-<p>Estão sendo usados:</p>
+### Estão sendo usados:
 <ol>
   <li>React.js - Frontend </li>
   <li>HTML + CSS - Frontend</li>
