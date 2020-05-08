@@ -4,17 +4,17 @@
 ![image5](https://user-images.githubusercontent.com/60307596/81362712-ded2e700-90b7-11ea-9814-142b1c9508fd.PNG)
 
 ### Be the Hero
-- Foi idealizado com o objetivo de ser um meio de comunicação e exposição entre várias ONG's e doadores interessados.
+- Foi idealizado com o objetivo de fazer a exposição de casos e de ser um meio comunicação entre diversas ONG's e doadores interessados.
 
 ### Estão sendo usados:
-<ol>
-  <li>React.js - Frontend </li>
-  <li>HTML + CSS - Frontend</li>
-  <li>Node.js - Backend</li>
-  <li>React Native - Mobile</li>
-  <li>SQLite - Banco de Dados</li>
+
+  - React.js - Frontend 
+  - HTML + CSS - Frontend
+  - Node.js - Backend
+  - React Native - Mobile
+  - SQLite - Banco de Dados
   <li>Git</li>
-</ol>
+
 
 ### Backend 
 
