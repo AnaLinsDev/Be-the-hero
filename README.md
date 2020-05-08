@@ -2,11 +2,11 @@
 
 
 ### Backend 
-
-- abra a pasta `OmniStack-11/aulas/backend/` na Shell (No windows Power Shell em modo administrador). 
+<ol>
+<li>abra a pasta `OmniStack-11/aulas/backend/` na Shell (No windows Power Shell em modo administrador). </li>
 - `$ npm install` esse comando ira instalar todos os módulos necessários ao Node.JS
 -  `$ npm start` Ira iniciar o servidor backend na `localhost:3333\` 
-
+</ol>
 ### Frontend | Web
 
 - abra a pasta `OmniStack-11/aulas/frontend/` na Shell (No windows Power Shell em modo administrador). 
