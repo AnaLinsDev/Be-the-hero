@@ -2,8 +2,6 @@
 
 ![image1](https://user-images.githubusercontent.com/60307596/81362657-bd71fb00-90b7-11ea-8781-93f89427ebf7.PNG)
 
-<img src="" alt="Home">
-<img src="" alt="Cadastro">
 
 <p>Estão sendo usados:</p>
 <ol>
