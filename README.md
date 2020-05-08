@@ -2,13 +2,14 @@
 
 <p>Feito durante a semana Omnistack 11.0, providenciada pela Rockeseat</p>
 
+
+
 <p>Estão sendo usados:</p>
 <ol>
-  <li>JavaScript</li>
-  <li>Node JS</li>
-  <li>React </li>
-  <li>SQLite</li>
+  <li>React.js - Frontend </li>
+  <li>HTML + CSS - Frontend</li>
+  <li>Node.js - Backend</li>
+  <li>React Native - Mobile</li>
+  <li>SQLite - Banco de Dados</li>
   <li>Git</li>
-  <li>HTML + CSS</li>
-
 </ol>
