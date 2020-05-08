@@ -6,14 +6,15 @@
 ### Be the Hero
 - Foi idealizado com o objetivo de fazer a exposição de casos e de ser um meio comunicação entre diversas ONG's e doadores interessados.
 
-### Estão sendo usados:
+### Foram usados:
 
   - React.js - Frontend 
   - HTML + CSS - Frontend
   - Node.js - Backend
   - React Native - Mobile
   - SQLite - Banco de Dados
-  <li>Git</li>
+  - Git
+  - Insomnia
 
 
 ### Backend 
