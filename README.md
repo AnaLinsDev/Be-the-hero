@@ -21,13 +21,13 @@
 
 - abra a pasta `OmniStack-11/aulas/backend/` no Prompt de comando ( adimistrador ). 
 - `$ npm install` 
--  `$ npm start` Iniciará o servidor backend na `http://localhost:3333\` 
+-  `$ npm start` Iniciará o servidor backend na `http://localhost:3333` 
 
 ### Frontend | Web
 
 - abra a pasta `OmniStack-11/aulas/frontend/` no Prompt de comando ( adimistrador ). 
 - `$ npm install` 
--  `$ npm start`  Iniciará o cliente na `http://localhost:3000\` 
+-  `$ npm start`  Iniciará o cliente na `http://localhost:3000` 
 
 ### Mobile 
 
