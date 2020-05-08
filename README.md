@@ -1,8 +1,7 @@
-# BE THE HERO
+<h1> Semana Omnistack 11.0 - Rockseat </h1>
 
-<p>Feito durante a semana Omnistack 11.0, providenciada pela Rockeseat</p>
 
-<h1>Backend </h1>
+### Backend 
 
 - abra a pasta `OmniStack-11/aulas/backend/` na Shell (No windows Power Shell em modo administrador). 
 - `$ npm install` esse comando ira instalar todos os módulos necessários ao Node.JS
