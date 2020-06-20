@@ -19,19 +19,19 @@
 
 ### Backend 
 
-- abra a pasta `backend` no Prompt de comando ( adimistrador ). 
+- abra a pasta `backend` no Prompt de comando ( administrador ). 
 - `$ npm install` 
 -  `$ npm start` Iniciará o servidor backend na `http://localhost:3333` 
 
 ### Frontend | Web
 
-- abra a pasta `frontend` no Prompt de comando ( adimistrador ). 
+- abra a pasta `frontend` no Prompt de comando ( administrador ). 
 - `$ npm install` 
 -  `$ npm start`  Iniciará o cliente na `http://localhost:3000` 
 
 ### Mobile 
 
-- abra a pasta `mobile` no Prompt de comando ( adimistrador ). 
+- abra a pasta `mobile` no Prompt de comando ( administrador ). 
 - `$ npm install` 
 -  `$ npm start`  Iniciará o app no Expo 
 
